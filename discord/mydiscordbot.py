@@ -11,8 +11,8 @@ from discord.ext import commands
 # In[ ]:
 
 
-channel = "1339693004117508258"
-token = "MTMzNjQ2MDgxNTEzMzU3NzIyNg.GwwNRm.JQFdcyM-vQHKj6dLIQ0SHp3dgTgdctXoT-shkk"
+channel = "channel id"
+token = "token"
 
 
 # In[ ]:
